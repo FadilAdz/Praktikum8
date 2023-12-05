@@ -22,7 +22,7 @@
 ![img](Praktikum8/code.png)
 
 
-## * **Hasil Program dan Hasil Dari Beberapa Inputan Data**
+## * **Hasil Tampilan Program**
 
 * Berikut adalah ketika program dijalankan
 
