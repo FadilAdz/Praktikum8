@@ -11,9 +11,11 @@
 
 
 ## Program Diagram Class
-![img](Praktikum8/diagramclasspng)
+![img](Praktikum8/diagramclass.png)
 
-## Program Flowchart
+
+## Sistem Flowchart
+![img](Praktikum8/flowchart.png)
 
 
 $${\color{lightblue}PYTHON}$$
