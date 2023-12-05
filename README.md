@@ -11,7 +11,7 @@
 
 
 ## Program Diagram Class
-![img](diagramclass.png)
+![img](Praktikum8/diagramclasspng)
 
 ## Program Flowchart
 
